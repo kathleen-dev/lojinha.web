@@ -20,6 +20,7 @@ public class LojinhaApp {
         //meuProduto.setItensInclusos(itensInclusos);
 
 
+
         //System.out.println(meuProduto.getItensInclusos().size()); //COMANDO PARA PUXAR TOTAL DE ITENS DA LISTA//
         //System.out.println(meuProduto.getItensInclusos().get(1)) - COMANDO PARA PUXAR O NUMERO DO ITEM DA LISTA//
 
